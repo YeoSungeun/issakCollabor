@@ -4,3 +4,7 @@ func test() {
 }
 
 print("그건 아마 우리의 잘못이 아니 뒤에 뭐더라")
+
+func test12() {
+    print("Pull request test")
+}
