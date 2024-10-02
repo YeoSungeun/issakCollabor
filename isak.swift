@@ -12,3 +12,14 @@ func test12() {
 func testForPR() {
     print("그랬구나 지수는 UI가 계속 고민이구나.. 그래도 해야한단다.")
 }
+
+
+// 지수띠 하이 ~~
+struct 지수 {
+    var name: String
+    var glasses: Int
+    
+    var hiToJisoo: String {
+        return "지수띠 넘 졸리다. .^_^"
+    }
+}
